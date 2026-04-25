@@ -1,5 +1,5 @@
 
-![Stats](https://raw.githubusercontent.com/AKTodorov24/readme/main/github-stats.svg)
+![Stats](https://raw.githubusercontent.com/AKTodorov24/AKTodorov24/main/github-stats.svg)
 <details>
   <summary><b>Certificates</b></summary>
   <ul>
